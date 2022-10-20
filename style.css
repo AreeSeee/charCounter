@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: goldenrod;
+}
+
+.box{
+    border: solid;
+    border-radius: 10px;
+    background-color: beige;
+    padding: 20px;
+}
+.freeform{
+    width: 380px;
+    height: 100px;
+    display: block;
+    margin-bottom: 30px;
+   
+}
+h4{
+    
+    display: inline;
+    padding: 25px;
+    font-family: cursive;
+    
+}
+h1{
+    font-family: cursive;
+}
